@@ -1,7 +1,5 @@
 # Delta-Hacks-11
 
-NISARG WUZ HERE!!!
-
 As electric vehicles grow in popularity, we realized that many EV users struggle with finding compatible charging stations and navigating the complexities of charging station availability, costs and maintenance. We noticed that the information about EV charging stations is scattered across different apps, making it difficult for users to access everything they need in one place. This inspired us to create a simple and user-friendly platform that brings all the essential features together to make charging EVs easier and more convenient. 
 
 ## What it does
